@@ -1,0 +1,8 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    border-radius: 40px;
+    border: 3px rgb(114, 102, 102) solid;
+        background: rgb(46, 192, 192);
+} 
